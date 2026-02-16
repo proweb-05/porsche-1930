@@ -61,6 +61,13 @@ html {
     display: none;
 }
 
+.window h2 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 24px;
+    color: blue;
+}
+
 .window form {
     width: 400px;
     height: 400px;
